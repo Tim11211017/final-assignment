@@ -1,0 +1,100 @@
+<mxfile host="65bd71144e">
+    <diagram id="freGRtVrbzGDc5Tks4so" name="使用案例圖">
+        <mxGraphModel dx="585" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="185" y="70" width="210" height="310" as="geometry"/>
+                </mxCell>
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-6" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AfRRr7Rnr8WvmsAcNSN2-1" target="AfRRr7Rnr8WvmsAcNSN2-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-7" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AfRRr7Rnr8WvmsAcNSN2-1" target="AfRRr7Rnr8WvmsAcNSN2-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-1" value="乘客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="90" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-8" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AfRRr7Rnr8WvmsAcNSN2-2" target="AfRRr7Rnr8WvmsAcNSN2-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-2" value="公車司機" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="300" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-3" value="APP通知案例" style="ellipse;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-4" value="查詢公車案例" style="ellipse;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-5" value="交通路況案例" style="ellipse;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="300" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="HTJeE4j5H1gRUUhWRiiJ" name="初步類別圖">
+        <mxGraphModel dx="585" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="buLzTLu3LGarzLiVaL0H-18" style="edgeStyle=none;html=1;endArrow=none;endFill=0;entryX=0.023;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="buLzTLu3LGarzLiVaL0H-6" target="buLzTLu3LGarzLiVaL0H-12">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="320" y="252" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="buLzTLu3LGarzLiVaL0H-19" value="1" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="buLzTLu3LGarzLiVaL0H-18">
+                    <mxGeometry x="0.7895" y="4" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="buLzTLu3LGarzLiVaL0H-20" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="buLzTLu3LGarzLiVaL0H-18">
+                    <mxGeometry x="-0.8018" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="buLzTLu3LGarzLiVaL0H-6" value="Passenger" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="226" width="140" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="buLzTLu3LGarzLiVaL0H-7" value="name&#10;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="buLzTLu3LGarzLiVaL0H-6">
+                    <mxGeometry y="26" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="buLzTLu3LGarzLiVaL0H-21" style="edgeStyle=none;html=1;entryX=0.011;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="buLzTLu3LGarzLiVaL0H-10" target="buLzTLu3LGarzLiVaL0H-15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="buLzTLu3LGarzLiVaL0H-22" value="1" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="buLzTLu3LGarzLiVaL0H-21">
+                    <mxGeometry x="0.7872" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="buLzTLu3LGarzLiVaL0H-10" value="Bus" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="200" width="140" height="104" as="geometry"/>
+                </mxCell>
+                <mxCell id="buLzTLu3LGarzLiVaL0H-11" value="Location" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="buLzTLu3LGarzLiVaL0H-10">
+                    <mxGeometry y="26" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="buLzTLu3LGarzLiVaL0H-12" value="arrival time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="buLzTLu3LGarzLiVaL0H-10">
+                    <mxGeometry y="52" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="buLzTLu3LGarzLiVaL0H-13" value="driving route" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="buLzTLu3LGarzLiVaL0H-10">
+                    <mxGeometry y="78" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="buLzTLu3LGarzLiVaL0H-14" value="Bus driver" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="226" width="140" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="buLzTLu3LGarzLiVaL0H-15" value="driver ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="buLzTLu3LGarzLiVaL0H-14">
+                    <mxGeometry y="26" width="140" height="26" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="IBM1qg4Eo7VAjWiR8M-I" name="第3頁">
+        <mxGraphModel dx="585" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
