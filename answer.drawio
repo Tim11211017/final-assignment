@@ -1,99 +1,223 @@
 <mxfile host="65bd71144e">
     <diagram id="freGRtVrbzGDc5Tks4so" name="使用案例圖">
-        <mxGraphModel dx="585" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1130" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="185" y="70" width="210" height="310" as="geometry"/>
                 </mxCell>
-                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-6" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AfRRr7Rnr8WvmsAcNSN2-1" target="AfRRr7Rnr8WvmsAcNSN2-3">
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-6" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="AfRRr7Rnr8WvmsAcNSN2-1" target="AfRRr7Rnr8WvmsAcNSN2-3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-7" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AfRRr7Rnr8WvmsAcNSN2-1" target="AfRRr7Rnr8WvmsAcNSN2-4">
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-7" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="AfRRr7Rnr8WvmsAcNSN2-1" target="AfRRr7Rnr8WvmsAcNSN2-4" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-1" value="乘客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-1" value="乘客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
                     <mxGeometry x="90" y="90" width="30" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-8" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AfRRr7Rnr8WvmsAcNSN2-2" target="AfRRr7Rnr8WvmsAcNSN2-5">
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-8" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="AfRRr7Rnr8WvmsAcNSN2-2" target="AfRRr7Rnr8WvmsAcNSN2-5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-2" value="公車司機" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-2" value="公車司機" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
                     <mxGeometry x="90" y="300" width="30" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-3" value="APP通知案例" style="ellipse;" vertex="1" parent="1">
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-3" value="APP通知案例" style="ellipse;" parent="1" vertex="1">
                     <mxGeometry x="230" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-4" value="查詢公車案例" style="ellipse;" vertex="1" parent="1">
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-4" value="查詢公車案例" style="ellipse;" parent="1" vertex="1">
                     <mxGeometry x="230" y="170" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-5" value="交通路況案例" style="ellipse;" vertex="1" parent="1">
+                <mxCell id="AfRRr7Rnr8WvmsAcNSN2-5" value="交通路況案例" style="ellipse;" parent="1" vertex="1">
                     <mxGeometry x="230" y="300" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
     <diagram id="HTJeE4j5H1gRUUhWRiiJ" name="初步類別圖">
-        <mxGraphModel dx="585" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1130" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="buLzTLu3LGarzLiVaL0H-18" style="edgeStyle=none;html=1;endArrow=none;endFill=0;entryX=0.023;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="buLzTLu3LGarzLiVaL0H-6" target="buLzTLu3LGarzLiVaL0H-12">
+                <mxCell id="buLzTLu3LGarzLiVaL0H-18" style="edgeStyle=none;html=1;endArrow=none;endFill=0;entryX=0.023;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="buLzTLu3LGarzLiVaL0H-6" target="buLzTLu3LGarzLiVaL0H-12" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="320" y="252" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="buLzTLu3LGarzLiVaL0H-19" value="1" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="buLzTLu3LGarzLiVaL0H-18">
+                <mxCell id="buLzTLu3LGarzLiVaL0H-19" value="1" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" parent="buLzTLu3LGarzLiVaL0H-18" vertex="1" connectable="0">
                     <mxGeometry x="0.7895" y="4" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="buLzTLu3LGarzLiVaL0H-20" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="buLzTLu3LGarzLiVaL0H-18">
+                <mxCell id="buLzTLu3LGarzLiVaL0H-20" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" parent="buLzTLu3LGarzLiVaL0H-18" vertex="1" connectable="0">
                     <mxGeometry x="-0.8018" y="1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="buLzTLu3LGarzLiVaL0H-6" value="Passenger" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+                <mxCell id="buLzTLu3LGarzLiVaL0H-6" value="Passenger" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
                     <mxGeometry x="60" y="226" width="140" height="52" as="geometry"/>
                 </mxCell>
-                <mxCell id="buLzTLu3LGarzLiVaL0H-7" value="name&#10;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="buLzTLu3LGarzLiVaL0H-6">
+                <mxCell id="buLzTLu3LGarzLiVaL0H-7" value="name&#10;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="buLzTLu3LGarzLiVaL0H-6" vertex="1">
                     <mxGeometry y="26" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="buLzTLu3LGarzLiVaL0H-21" style="edgeStyle=none;html=1;entryX=0.011;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="buLzTLu3LGarzLiVaL0H-10" target="buLzTLu3LGarzLiVaL0H-15">
+                <mxCell id="buLzTLu3LGarzLiVaL0H-21" style="edgeStyle=none;html=1;entryX=0.011;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="buLzTLu3LGarzLiVaL0H-10" target="buLzTLu3LGarzLiVaL0H-15" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="buLzTLu3LGarzLiVaL0H-22" value="1" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" vertex="1" connectable="0" parent="buLzTLu3LGarzLiVaL0H-21">
+                <mxCell id="buLzTLu3LGarzLiVaL0H-22" value="1" style="edgeLabel;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];" parent="buLzTLu3LGarzLiVaL0H-21" vertex="1" connectable="0">
                     <mxGeometry x="0.7872" y="-1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="buLzTLu3LGarzLiVaL0H-10" value="Bus" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+                <mxCell id="buLzTLu3LGarzLiVaL0H-10" value="Bus" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
                     <mxGeometry x="330" y="200" width="140" height="104" as="geometry"/>
                 </mxCell>
-                <mxCell id="buLzTLu3LGarzLiVaL0H-11" value="Location" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="buLzTLu3LGarzLiVaL0H-10">
+                <mxCell id="buLzTLu3LGarzLiVaL0H-11" value="Location" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="buLzTLu3LGarzLiVaL0H-10" vertex="1">
                     <mxGeometry y="26" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="buLzTLu3LGarzLiVaL0H-12" value="arrival time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="buLzTLu3LGarzLiVaL0H-10">
+                <mxCell id="buLzTLu3LGarzLiVaL0H-12" value="arrival time" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="buLzTLu3LGarzLiVaL0H-10" vertex="1">
                     <mxGeometry y="52" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="buLzTLu3LGarzLiVaL0H-13" value="driving route" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="buLzTLu3LGarzLiVaL0H-10">
+                <mxCell id="buLzTLu3LGarzLiVaL0H-13" value="driving route" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="buLzTLu3LGarzLiVaL0H-10" vertex="1">
                     <mxGeometry y="78" width="140" height="26" as="geometry"/>
                 </mxCell>
-                <mxCell id="buLzTLu3LGarzLiVaL0H-14" value="Bus driver" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+                <mxCell id="buLzTLu3LGarzLiVaL0H-14" value="Bus driver" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
                     <mxGeometry x="590" y="226" width="140" height="52" as="geometry"/>
                 </mxCell>
-                <mxCell id="buLzTLu3LGarzLiVaL0H-15" value="driver ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="buLzTLu3LGarzLiVaL0H-14">
+                <mxCell id="buLzTLu3LGarzLiVaL0H-15" value="driver ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="buLzTLu3LGarzLiVaL0H-14" vertex="1">
                     <mxGeometry y="26" width="140" height="26" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
-    <diagram id="IBM1qg4Eo7VAjWiR8M-I" name="第3頁">
-        <mxGraphModel dx="585" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <diagram id="IBM1qg4Eo7VAjWiR8M-I" name="app通知案例">
+        <mxGraphModel dx="1130" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
+                <mxCell id="x2ZYSUJHfPWw3KR5cAFx-3" value="OPT" style="shape=umlFrame;whiteSpace=wrap;html=1;width=50;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="230" width="760" height="555" as="geometry"/>
+                </mxCell>
+                <mxCell id="x2ZYSUJHfPWw3KR5cAFx-1" value="乘客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;direction=east;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="80" width="70" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="x2ZYSUJHfPWw3KR5cAFx-2" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;dashed=1;" edge="1" parent="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="130" y="207.5" as="sourcePoint"/>
+                        <mxPoint x="130" y="807.5" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="x2ZYSUJHfPWw3KR5cAFx-10" style="edgeStyle=none;html=1;dashed=1;" edge="1" parent="1" source="x2ZYSUJHfPWw3KR5cAFx-6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="420" y="810" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="x2ZYSUJHfPWw3KR5cAFx-6" value="APP通知案例" style="fontStyle=0;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="130" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="sFdpPyXCxVNfVavakcEh-1" value="設定通知按鈕" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;" edge="1" parent="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="130" y="420" as="sourcePoint"/>
+                        <mxPoint x="420" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="sFdpPyXCxVNfVavakcEh-2" value="通知訊息" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;dashed=1;" edge="1" parent="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="420" y="530" as="sourcePoint"/>
+                        <mxPoint x="130" y="530" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="Lfmxvou7VoEOT8RlpWzD" name="查詢公車案例">
+        <mxGraphModel dx="1130" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="X5Rk0d19zi_00zVlmujK-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dopen%3BstartArrow%3Dnone%3BendFill%3D0%3BstartFill%3D0%3BendSize%3D8%3Bhtml%3D1%3BverticalAlign%3Dbottom%3BlabelBackgroundColor%3Dnone%3BstrokeWidth%3D1%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%22160%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22160%22%20y%3D%22340%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22390%22%20y%3D%22340%22%20as%3D%22targetPoint%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=50;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="200" width="630" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="6yjK1QrMqKy7lyOnVOWb-1" value="乘客" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="60" width="70" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="6yjK1QrMqKy7lyOnVOWb-6" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;dashed=1;" edge="1" parent="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="154.5" y="170" as="sourcePoint"/>
+                        <mxPoint x="150" y="700" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Sc8S7GrdZaC-wCm8s1Ku-1" style="edgeStyle=none;html=1;dashed=1;" edge="1" parent="1" source="J9x6y22kM2jq0GJAHZhb-1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="395" y="750" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="J9x6y22kM2jq0GJAHZhb-1" value="查詢公車案例" style="fontStyle=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="335" y="110" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="rfwhIK3XOb4xHGlW6ibo-2" value="搜尋公車車號" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;" edge="1" parent="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="160" y="340" as="sourcePoint"/>
+                        <mxPoint x="390" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="rfwhIK3XOb4xHGlW6ibo-7" value="顯示訊息" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;dashed=1;" edge="1" parent="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="390" y="460" as="sourcePoint"/>
+                        <mxPoint x="150" y="460" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="qDVS8AQga5yWB5x4QhRd-3" value="公車資訊(公車車牌、公車車號、公車位置、抵達時間、經過站牌" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;" edge="1" parent="1">
+                    <mxGeometry x="-0.04" y="110" width="160" relative="1" as="geometry">
+                        <mxPoint x="410" y="340" as="sourcePoint"/>
+                        <mxPoint x="400" y="460" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="470" y="340"/>
+                            <mxPoint x="470" y="460"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="EVvW8SMmWxwQriUSxJSj" name="交通路況案例">
+        <mxGraphModel dx="1130" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="DvMazjU8bwMhEqVZtqTf-1" value="OPT" style="shape=umlFrame;whiteSpace=wrap;html=1;width=50;height=25;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="190" width="640" height="455" as="geometry"/>
+                </mxCell>
+                <mxCell id="DvMazjU8bwMhEqVZtqTf-2" value="公車司機" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="80" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="DvMazjU8bwMhEqVZtqTf-3" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=3;dashed=1;" edge="1" parent="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="144.5" y="181.5" as="sourcePoint"/>
+                        <mxPoint x="144.5" y="703.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DvMazjU8bwMhEqVZtqTf-5" style="edgeStyle=none;html=1;dashed=1;" edge="1" parent="1" source="DvMazjU8bwMhEqVZtqTf-4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="380" y="710" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="DvMazjU8bwMhEqVZtqTf-4" value="交通路況案例" style="fontStyle=0;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="130" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="mRSz1C-ffoVa4D4wDn-L-1" value="路況查詢按鈕" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;" edge="1" parent="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="140" y="320" as="sourcePoint"/>
+                        <mxPoint x="380" y="320" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="mRSz1C-ffoVa4D4wDn-L-3" value="顯示路況資訊" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;dashed=1;" edge="1" parent="1">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="380" y="440" as="sourcePoint"/>
+                        <mxPoint x="150" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
